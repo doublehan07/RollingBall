@@ -1,0 +1,18 @@
+--cpu Cortex-M3
+"..\obj\startup_stm32f10x_md.o"
+"..\obj\main.o"
+"..\obj\delay.o"
+"..\obj\sys.o"
+"..\obj\usart.o"
+"..\obj\led.o"
+"..\obj\ioi2c.o"
+"..\obj\exti.o"
+"..\obj\control.o"
+"..\obj\inv_mpu.o"
+"..\obj\inv_mpu_dmp_motion_driver.o"
+"..\obj\mpu6050.o"
+"..\obj\rollingball.o"
+--strict --scatter "..\OBJ\RollingBall.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "..\OBJ\RollingBall.map" -o ..\OBJ\RollingBall.axf
