@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: RollingBall.PcbDoc   4/27/2017  6:54:50 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : RollingBall-RoundHoles-Plated.TXT
+ASCII Plated SlotHoles File : RollingBall-SlotHoles-Plated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        15mil (0.381mm)          Round          78               15.34 Inch (389.55 mm)
+T2        25mil (0.635mm)          Round          2                1.08 Inch (27.39 mm)
+T3        28mil (0.7112mm)         Round          3                0.19 Inch (4.93 mm)
+T4        31.5mil (0.8001mm)       Round          8                1.20 Inch (30.45 mm)
+T5        35.43mil (0.89992mm)     Round          44               13.15 Inch (334.07 mm)
+T6        39.37mil (1mm)           Slot           3                1.27 Inch (32.23 mm)
+T7        118.11mil (2.99999mm)    Round          4                7.56 Inch (192.13 mm)
+---------------------------------------------------------------------------
+Totals                                            142              39.79 Inch (1010.75 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
