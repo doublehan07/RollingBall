@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND_BAT Pin=P9-1
+Removed Pin From Net: NetName=GND Pin=P9-2
+Removed Member From Class: ClassName=power Member=P9
+Added Component: Designator=S1(XH2.54-3P)
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND_BAT Pin=S1-3
+Added Member To Class: ClassName=power Member=Component S1 SW-SPDT

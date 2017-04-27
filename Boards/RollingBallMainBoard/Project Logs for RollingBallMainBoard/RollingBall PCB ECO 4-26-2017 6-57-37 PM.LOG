@@ -1,0 +1,4 @@
+Added Component: Designator=S?1(SWITCH_A1)
+Added Component: Designator=S?(SWITCH_A3)
+Added Member To Class: ClassName=power Member=Component S?1 SW-SPDT
+Added Member To Class: ClassName=power Member=Component S? SW-SPDT

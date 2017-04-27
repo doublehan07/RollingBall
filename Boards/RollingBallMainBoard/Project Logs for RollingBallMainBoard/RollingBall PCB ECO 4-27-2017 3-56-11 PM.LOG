@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=PB8_SDA Pin=U1-24
+Added Pin To Net: NetName=PB8_SDA Pin=U2-45
+Added Net: Name=PB8_SDA
+Added Pin To Net: NetName=PB9_SCL Pin=U1-23
+Added Pin To Net: NetName=PB9_SCL Pin=U2-46
+Added Net: Name=PB9_SCL
+Added Member To Class: ClassName=maincont Member=Component Y1 8MHz ¡À20ppm 20pF
