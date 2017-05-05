@@ -289,7 +289,7 @@ void DMP_Init(void)
 	  	 ;//printf("dmp_set_fifo_rate complete ......\r\n");
 	  run_self_test();;
 	  if(!mpu_set_dmp_state(1))
-	  	 ;//printf("mpu_set_dmp_state complete ......\r\n");
+		;//printf("mpu_set_dmp_state complete ......\r\n");
   }
 }
 /**************************************************************************
@@ -315,7 +315,7 @@ void Read_DMP(void)
 		accelNow.x = accel[0]*2*9.8 / 32768.0;
 		accelNow.y = accel[1]*2*9.8 / 32768.0;
 		accelNow.z = accel[2]*2*9.8 / 32768.0;
-#define DATA_DEBUG
+//#define DATA_DEBUG
 #ifdef DATA_DEBUG
 		sendPackage[0] = 0x55;
 		sendPackage[1] = 0x51;
