@@ -1,34 +1,34 @@
-Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~RollingBallMainBoard.PrjPcb|ReportField=ProjectFullPath~D:\Project\RollingBall\Boards\RollingBallMainBoard\RollingBallMainBoard.PrjPcb|ReportField=Title~Bill of Materials For Project [RollingBallMainBoard.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~57|ReportField=ReportTime~10:50:07 PM|ReportField=ReportDate~4/27/2017|ReportField=ReportDateTime~4/27/2017 10:50:07 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~RollingBallMainBoard.PrjPcb|ReportField=DataSourceFullPath~D:\Project\RollingBall\Boards\RollingBallMainBoard\RollingBallMainBoard.PrjPcb
-100nF(104) 10% 50V|贴片电容|C1, C2, C6, C9, C10, C11, C12, C13|LC-0805_C|0805 100nF(104) 10% 50V|8
-2.2nF (222) 5% 50V|贴片电容|C3|LC-0805_C|0805 2.2nF (222) 5% 50V|1
-10nF (103) 10% 50V|贴片电容|C4, C8|LC-0805_C|0805 10nF (103) 10% 50V|2
-10uF (106) ±10% 16V|钽电容|C5, C15, C16|LC-CASE-A_3216|3216 10uF (106) 10% 16V|3
-1uF (105) 10% 50V|贴片电容|C7, C17|LC-0805_C|0805 1uF (105) 10% 50V|2
-4.7uF (475) 10% 25V|贴片电容|C14|LC-0805_C|0805 4.7uF (475) 10% 25V|1
-10uF (106) 10% 25V|贴片电容|C18|LC-0805_C|0805 10uF (106) 10% 25V|1
-黄灯 0805|发光二极管|D1|LC-0805_LED_S1|0805 黄灯|1
-蓝灯 0805|发光二极管|D2|LC-0805_LED_S1|0805 蓝灯|1
-LED0|发光二极管|D3, D4, D5, D6|LED_A2|LED0|4
-白灯 0805|发光二极管|D7|LC-0805_LED_S1|0805 白灯|1
-红灯 0805|发光二极管|D8|LC-0805_LED_S1|0805 红灯|1
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~RollingBallMainBoard.PrjPcb|ReportField=ProjectFullPath~D:\Project\RollingBall\Boards\RollingBallMainBoard\RollingBallMainBoard.PrjPcb|ReportField=Title~Bill of Materials For Project [RollingBallMainBoard.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~91|ReportField=ReportTime~8:21:38 AM|ReportField=ReportDate~5/7/2017|ReportField=ReportDateTime~5/7/2017 8:21:38 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~RollingBallMainBoard.PrjPcb|ReportField=DataSourceFullPath~D:\Project\RollingBall\Boards\RollingBallMainBoard\RollingBallMainBoard.PrjPcb
+10nF (103) 10% 50V|贴片电容|C1, C16|LC-0805_C|0805 10nF (103) 10% 50V|2
+1uF (105) 10% 50V|贴片电容|C2, C20|LC-0805_C|0805 1uF (105) 10% 50V|2
+20pF (200) 5% 50V|贴片电容|C3, C4|LC-0805_C|0805 20pF (200) 5% 50V|2
+100nF(104) 10% 50V|贴片电容|C5, C7, C8, C9, C10, C11, C13, C15|LC-0805_C|0805 100nF(104) 10% 50V|8
+4.7uF (475) 10% 25V|贴片电容|C6|LC-0805_C|0805 4.7uF (475) 10% 25V|1
+2.2nF (222) 5% 50V|贴片电容|C12|LC-0805_C|0805 2.2nF (222) 5% 50V|1
+10uF (106) ±10% 16V|钽电容|C14, C17, C18|LC-CASE-A_3216|3216 10uF (106) 10% 16V|3
+10uF (106) 10% 25V|贴片电容|C19|LC-0805_C|0805 10uF (106) 10% 25V|1
+翠绿 0805|发光二极管|D1, D3, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D19, D20, D22, D23|LC-0805_LED_S1|0805 翠绿|18
+红灯 0805|发光二极管|D2, D4|LC-0805_LED_S1|0805 红灯|2
+LED0|发光二极管|D17, D18, D21, D24|LED_A2|LED0|4
 PWRCON|直流电源端子|J1|DC-005|PWRCON|1
-PWR|接插件|P1|HDR2X1-2.54|Header 2|1
-AUX|接插件|P2|HDR3X1-2.54|Header 3|1
-SWD|接插件|P3|HDR4X1-2.54|Header 4|1
-PB_H|Header, 8-Pin|P4|HDR1X8|Header 8|1
-PB_L|Header, 8-Pin|P5|HDR1X8|Header 8|1
-PA_L|Header, 8-Pin|P6|HDR1X8|Header 8|1
-BAT1|接插件|P7|HDR2X1-2.54|Header 2|1
-BAT2|接插件|P8|HDR2X1-2.54|Header 2|1
-UART|接插件|P9|HDR4X1-2.54|Header 4|1
-1KΩ (1001) ±1%|贴片电阻|R1, R2, R7, R8, R14, R15|LC-0805_R|0805 1KΩ (1001) 1%|6
-0Ω (0R0) ±1%|贴片电阻|R3, R4, R6|LC-0805_R|0805 0Ω (0R0) 1%|3
-NC|贴片电阻|R5|LC-0805_R|0805 1MΩ (1004) 1%|1
-200Ω (2000) ±1%|贴片电阻|R9, R10, R11, R12|LC-0805_R|0805 200Ω (2000) 1%|4
-1.5KΩ (1501) ±1%|贴片电阻|R13|LC-0805_R|0805 1.5KΩ (1501) 1%|1
+PA_L|Header, 8-Pin|P1|HDR1X8|Header 8|1
+PB_H|Header, 8-Pin|P2|HDR1X8|Header 8|1
+PB_L|Header, 8-Pin|P3|HDR1X8|Header 8|1
+SWD|接插件|P4|HDR4X1-2.54|Header 4|1
+UART|接插件|P5|HDR4X1-2.54|Header 4|1
+PWR|接插件|P6|HDR2X1-2.54|Header 2|1
+AUX|接插件|P7|HDR3X1-2.54|Header 3|1
+BAT1|接插件|P8|HDR2X1-2.54|Header 2|1
+BAT2|接插件|P9|HDR2X1-2.54|Header 2|1
+0Ω (0R0) ±1%|贴片电阻|R1|LC-0805_R|0805 0Ω (0R0) 1%|1
+NC|贴片电阻|R2|LC-0805_R|0805 1MΩ (1004) 1%|1
+1KΩ (1001) ±1%|贴片电阻|R3, R4, R5, R8, R9, R11|LC-0805_R|0805 1KΩ (1001) 1%|6
+4.7KΩ (4701) ±1%|贴片电阻|R6, R7|LC-0805_R|0805 4.7KΩ (4701) 1%|2
+1.5KΩ (1501) ±1%|贴片电阻|R10|LC-0805_R|0805 1.5KΩ (1501) 1%|1
+200Ω (2000) ±1%|贴片电阻|R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31|LC-0805_R|0805 200Ω (2000) 1%|20
 SS-12D00(1P2T)|开关|S1|XH2.54-3P|SW-SPDT|1
-MPU-6050|传感器|U1|LC-QFN-24_4x4x05P|MPU-6050|1
-STM32F103C8T6|ARM|U2|LC-LQFP-48_7x7x05P|STM32F103C8T6|1
+STM32F103C8T6|ARM|U1|LC-LQFP-48_7x7x05P|STM32F103C8T6|1
+MPU-6050|传感器|U2|LC-QFN-24_4x4x05P|MPU-6050|1
 AMS1117-3.3|低压差线性稳压(LDO)|U3|LC-SOT-223|SOT-223 AMS1117-3.3|1
 TP4054|电池电源管理|U4|LC-SOT-23-5|TP4054|1
 8MHz ±20ppm 20pF|贴片晶振|Y1|LC-SMD-5032_2P|SMD-5032_2P 8MHz 20ppm 20pF|1

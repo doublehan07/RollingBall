@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=NetC12_1 Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=C4-2
+Removed Member From Class: ClassName=imu Member=C7
+Removed Member From Class: ClassName=maincont Member=C13
+Removed Member From Class: ClassName=maincont Member=C14
+Removed Member From Class: ClassName=imu Member=C19
+Removed Member From Class: ClassName=maincont Member=P6
+Removed Member From Class: ClassName=imu Member=R1
+Removed Member From Class: ClassName=imu Member=R5
+Removed Member From Class: ClassName=maincont Member=U2
+Added Component: Designator=C12(LC-0805_C)
+Added Component: Designator=C16(LC-0805_C)
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=NetC12_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VCC_3V3 Pin=C4-2
+Added Pin To Net: NetName=NetS1_1 Pin=S1-1
+Added Net: Name=NetS1_1
+Added Pin To Net: NetName=NetU2_2 Pin=U2-2
+Added Net: Name=NetU2_2
+Added Pin To Net: NetName=NetU2_3 Pin=U2-3
+Added Net: Name=NetU2_3
+Added Pin To Net: NetName=NetU2_4 Pin=U2-4
+Added Net: Name=NetU2_4
+Added Pin To Net: NetName=NetU2_5 Pin=U2-5
+Added Net: Name=NetU2_5
+Added Pin To Net: NetName=NetU2_14 Pin=U2-14
+Added Net: Name=NetU2_14
+Added Pin To Net: NetName=NetU2_15 Pin=U2-15
+Added Net: Name=NetU2_15
+Added Pin To Net: NetName=NetU2_16 Pin=U2-16
+Added Net: Name=NetU2_16
+Added Pin To Net: NetName=NetU2_17 Pin=U2-17
+Added Net: Name=NetU2_17
+Added Pin To Net: NetName=NetU2_19 Pin=U2-19
+Added Net: Name=NetU2_19
+Added Pin To Net: NetName=NetU2_21 Pin=U2-21
+Added Net: Name=NetU2_21
+Added Pin To Net: NetName=NetU2_22 Pin=U2-22
+Added Net: Name=NetU2_22
+Added Class: Name=LED_StructureClass
+Added Member To Class: ClassName=maincont Member=Component C2 1uF (105) 10% 50V
+Added Member To Class: ClassName=maincont Member=Component C5 100nF(104) 10% 50V
+Added Member To Class: ClassName=maincont Member=Component C6 4.7uF (475) 10% 25V
+Added Member To Class: ClassName=imu Member=Component C13 100nF(104) 10% 50V
+Added Member To Class: ClassName=imu Member=Component C15 100nF(104) 10% 50V
+Added Member To Class: ClassName=power Member=Component D4 綻腑 0805
+Added Member To Class: ClassName=LED Member=Component D8 港蟯 0805
+Added Member To Class: ClassName=maincont Member=Component P1 PA_L
+Added Member To Class: ClassName=maincont Member=Component P5 UART
+Added Member To Class: ClassName=maincont Member=Component R4 1K次 (1001) ㊣1%
+Added Member To Class: ClassName=maincont Member=Component R5 1K次 (1001) ㊣1%
+Added Member To Class: ClassName=imu Member=Component R6 4.7K次 (4701) ㊣1%
+Added Member To Class: ClassName=imu Member=Component R7 4.7K次 (4701) ㊣1%
+Added Member To Class: ClassName=imu Member=Component R8 1K次 (1001) ㊣1%
+Added Member To Class: ClassName=power Member=Component R9 1K次 (1001) ㊣1%
+Added Member To Class: ClassName=power Member=Component R10 1.5K次 (1501) ㊣1%
+Added Member To Class: ClassName=power Member=Component R11 1K次 (1001) ㊣1%
+Added Member To Class: ClassName=LED Member=Component R13 200次 (2000) ㊣1%
+Added Member To Class: ClassName=LED Member=Component R14 200次 (2000) ㊣1%
+Added Member To Class: ClassName=LED Member=Component R15 200次 (2000) ㊣1%
+Added Member To Class: ClassName=maincont Member=Component U1 STM32F103C8T6

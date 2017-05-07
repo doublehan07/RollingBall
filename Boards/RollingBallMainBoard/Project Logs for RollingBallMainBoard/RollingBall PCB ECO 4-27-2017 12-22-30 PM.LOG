@@ -1,6 +1,0 @@
-Added Component: Designator=P9(HDR4X1-2.54)
-Added Pin To Net: NetName=VCC_3V3 Pin=P9-1
-Added Pin To Net: NetName=PA9_TX Pin=P9-2
-Added Pin To Net: NetName=PA10_RX Pin=P9-3
-Added Pin To Net: NetName=GND Pin=P9-4
-Added Member To Class: ClassName=maincont Member=Component P9 UART
