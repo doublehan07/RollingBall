@@ -35,7 +35,7 @@ int EXTI9_5_IRQHandler(void)
 				diffY = diffY>0 ? diffY : -diffY;
 				diffZ = diffZ>0 ? diffZ : -diffZ;
 				
-				if((diffX > 10 || diffY > 10 || diffZ > 10) && !lock)
+				if((diffX > 15 || diffY > 15 || diffZ > 15) && !lock)
 				{
 					PAout(8) = ~PAout(8);
 					PAout(11) = ~PAout(11);

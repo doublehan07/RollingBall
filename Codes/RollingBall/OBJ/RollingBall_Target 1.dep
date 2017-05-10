@@ -1,6 +1,6 @@
 Dependencies for Project 'RollingBall', Target 'Target 1': (DO NOT MODIFY !)
 F (.\startup_stm32f10x_md.s)(0x532BB228)(--cpu Cortex-M3 -g --apcs=interwork -I D:\Project\RollingBall\Codes\RollingBall\USER\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 514" --pd "STM32F10X_MD SETA 1"--list ..\obj\startup_stm32f10x_md.lst --xref -o ..\obj\startup_stm32f10x_md.o --depend ..\obj\startup_stm32f10x_md.d)
-F (.\main.c)(0x590CCF2A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\IIC -I..\HARDWARE\EXTI -I..\Ball\CONTROL -I..\Ball\DMP -I..\Ball\HanWork -I..\Ball\MPU6050-I D:\Project\RollingBall\Codes\RollingBall\USER\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_MD -DSTM32F10X_MD-o ..\obj\main.o --omf_browse ..\obj\main.crf --depend ..\obj\main.d)
+F (.\main.c)(0x590ED8ED)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\IIC -I..\HARDWARE\EXTI -I..\Ball\CONTROL -I..\Ball\DMP -I..\Ball\HanWork -I..\Ball\MPU6050-I D:\Project\RollingBall\Codes\RollingBall\USER\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_MD -DSTM32F10X_MD-o ..\obj\main.o --omf_browse ..\obj\main.crf --depend ..\obj\main.d)
 I (..\SYSTEM\sys\sys.h)(0x590C9021)
 I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
 I (..\SYSTEM\sys\core_cm3.h)(0x4D523B58)
@@ -140,7 +140,7 @@ I (..\Ball\DMP\dmpmap.h)(0x50CA9A0C)
 I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5475F300)
 I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
 I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x5475F2FE)
-F (..\Ball\CONTROL\control.c)(0x590CDD8D)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\IIC -I..\HARDWARE\EXTI -I..\Ball\CONTROL -I..\Ball\DMP -I..\Ball\HanWork -I..\Ball\MPU6050-I D:\Project\RollingBall\Codes\RollingBall\USER\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_MD -DSTM32F10X_MD-o ..\obj\control.o --omf_browse ..\obj\control.crf --depend ..\obj\control.d)
+F (..\Ball\CONTROL\control.c)(0x590ED978)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\IIC -I..\HARDWARE\EXTI -I..\Ball\CONTROL -I..\Ball\DMP -I..\Ball\HanWork -I..\Ball\MPU6050-I D:\Project\RollingBall\Codes\RollingBall\USER\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_MD -DSTM32F10X_MD-o ..\obj\control.o --omf_browse ..\obj\control.crf --depend ..\obj\control.d)
 I (..\Ball\CONTROL\control.h)(0x58FC3245)
 I (..\SYSTEM\sys\sys.h)(0x590C9021)
 I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
