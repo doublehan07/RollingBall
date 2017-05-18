@@ -8,7 +8,7 @@ int main(void)
 	//JTAG_Set(JTAG_SWD_DISABLE);     //=====关闭JTAG接口
 	JTAG_Set(SWD_ENABLE);           //=====打开SWD接口 可以利用主板的SWD接口调试
 	LED_Init();                     //=====初始化与 LED 连接的硬件接口
-//	uart_init(72,115200);           //=====初始化串口1
+	uart_init(72,115200);           //=====初始化串口1
 	IIC_Init();                     //=====模拟IIC初始化
 	
   MPU6050_initialize();           //=====MPU6050初始化	
@@ -21,7 +21,7 @@ int main(void)
 	
 	EXTI_Init();                    //=====MPU6050 5ms定时中断初始化
 	delay_ms(500);
-//	PCout(13)= 1;
+	PCout(13)= 1;
 	
 	while(1)
 	{     

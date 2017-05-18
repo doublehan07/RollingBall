@@ -20,12 +20,15 @@ static signed char gyro_orientation[9] = {-1, 0, 0,
                                            0,-1, 0,
                                            0, 0, 1};
 
+//#define DATA_DEBUG
+#ifdef DATA_DEBUG
 static u8 sendPackage[11], i;
 static float a = 1.0f;
 static float temp;
 static short Ynx = 0, Yn_1x = 0, Xnx = 0;
 static short Yny = 0, Yn_1y = 0, Xny = 0;
 static short Ynz = 0, Yn_1z = 0, Xnz = 0;
+#endif
 																					 
 static  unsigned short inv_row_2_scale(const signed char *row)
 {
@@ -315,7 +318,7 @@ void Read_DMP(void)
 		accelNow.x = accel[0]*2*9.8 / 32768.0;
 		accelNow.y = accel[1]*2*9.8 / 32768.0;
 		accelNow.z = accel[2]*2*9.8 / 32768.0;
-//#define DATA_DEBUG
+
 #ifdef DATA_DEBUG
 		sendPackage[0] = 0x55;
 		sendPackage[1] = 0x51;

@@ -117,7 +117,7 @@ __asm void MSR_MSP(u32 addr)
 void Sys_Standby(void)
 {
 	SCB->SCR|=1<<2;//使能SLEEPDEEP位 (SYS->CTRL)	   
-  	RCC->APB1ENR|=1<<28;     //使能电源时钟	    
+  RCC->APB1ENR|=1<<28;     //使能电源时钟	    
  	PWR->CSR|=1<<8;          //设置WKUP用于唤醒
 	PWR->CR|=1<<2;           //清除Wake-up 标志
 	PWR->CR|=1<<1;           //PDDS置位		  
