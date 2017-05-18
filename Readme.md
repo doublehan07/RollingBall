@@ -12,7 +12,7 @@ Things get more interesting when the number of balls increases.
 ![](/Intro/3.gif)
 
 ## Solution details
-These basic modules RollingBall.RollingBall.
+These basic modules are demanded.
 - 1 * Gashapon Shell(White)
 - 2 * Li-polymer Battery
 - 1 * RollingBall Mainboard
